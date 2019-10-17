@@ -7,3 +7,6 @@
 5. Write readable code that others can go off of
 6. Overcome issues and problems that may arise during the process
 7. Can utilize Developer Tools to help identify elements of an existing webpage
+
+This project is based directly from The Odin Project's curriculum for HTML/CSS.
+The link is [here](http://www.theodinproject.com/courses/web-development-101/lessons/html-css).
